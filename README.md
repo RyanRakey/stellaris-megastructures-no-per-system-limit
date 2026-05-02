@@ -79,6 +79,8 @@ Stellaris is strict about encodings:
 
 This mod was created with the help of AI: **opencode** running the **Kimi K2.6** model.
 
+Inspired by ["No limitations - Megastructures"](https://steamcommunity.com/sharedfiles/filedetails/?id=2611073465) on the Steam Workshop.
+
 ## License
 
 This project is provided as-is for the Stellaris modding community. Feel free to fork, adapt, or incorporate into your own mods with attribution.
