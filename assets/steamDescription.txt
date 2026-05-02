@@ -1,0 +1,18 @@
+[h1]Megastructures - No Per-System Limit[/h1]
+
+Removes the one-per-system restriction on megastructures so you can build as many as you want in any single system.
+
+[h2]What this mod does[/h2]
+[list]
+[*]Strips the per-system build caps from all megastructures
+[*]Lets you stack Dyson Spheres, Ring Worlds, Matter Decompressors, and more in the same system
+[*]Keeps all other requirements intact (technology, resources, construction time)
+[/list]
+
+[h2]Compatibility[/h2]
+Target game version: [b]v4.3*[/b]
+
+Should work with most mods that do not also override megastructure build rules. Load order rarely matters for this kind of tweak.
+
+[h2]Credits[/h2]
+This mod was created with the help of AI: [b]opencode[/b] running the [b]Kimi K2.6[/b] model.
