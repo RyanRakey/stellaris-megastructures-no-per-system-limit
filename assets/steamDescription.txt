@@ -18,3 +18,5 @@ Should work with most mods that do not also override megastructure build rules. 
 This mod was created with the help of AI: [b]opencode[/b] running the [b]Kimi K2.6[/b] model.
 
 Inspired by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2611073465]"No limitations - Megastructures"[/url] on the Steam Workshop.
+
+Source code available on [url=https://github.com/RyanRakey/stellaris-megastructures-no-per-system-limit]GitHub[/url].
