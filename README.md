@@ -75,6 +75,16 @@ Stellaris is strict about encodings:
 | `.gfx` | UTF-8 **(not BOM)** |
 | `.gui` | UTF-8 |
 
+## Thumbnail Generation
+
+The `assets/generate_thumbnail.py` script generates a 512×512 Steam Workshop thumbnail from any input image. It resizes the image, overlays the mod title on two centered lines at the top, and applies white text with a black dropshadow for readability.
+
+Requires [Pillow](https://pillow.readthedocs.io/):
+```bash
+pip install pillow
+python assets/generate_thumbnail.py input_image.png output_thumbnail.png
+```
+
 ## Credits
 
 This mod was created with the help of AI: **opencode** running the **Kimi K2.6** model.
